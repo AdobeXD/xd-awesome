@@ -7,6 +7,7 @@ Awesome XD Plugins, Templates, Samples, and more.
 ## Utility Libraries
 
 ## Developer Tools
+- [**Typescript definitions**](https://github.com/AdobeXD/typings) – Adding autocompletion and type definitions
 
 ## Templates
 
