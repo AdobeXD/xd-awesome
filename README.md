@@ -1,9 +1,9 @@
 <p align="center"> 
   <img src="xdawesome.svg" width="500">
+  <br />
+  Awesome XD Plugins, Templates, Samples, and more. 
   <br /> <br />
 </p>
-
-Awesome XD Plugins, Templates, Samples, and more. 
 
 ## Awesome Plugins
 
