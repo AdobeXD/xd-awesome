@@ -8,7 +8,7 @@
 ## Awesome Plugins
 
 ## Utility Libraries
-- [**Storage helper (xd-storage-helper)**][4] – A little helper library making key-value-based permanent storage for plugins easy
+- [**Storage helper (xd-storage-helper)**][4] – A small helper library making key-value-based permanent storage for plugins easy
 
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
