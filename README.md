@@ -11,6 +11,7 @@
 
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
+- [**xdpm**][3] - XD plugin manager CLI (useful for watching folders and creating plugin packages)
 
 ## Templates
 
@@ -35,3 +36,4 @@ To contribute, please follow these steps:
 
 [1]:	https://github.com/AdobeXD/typings
 [2]:	https://github.com/takidelfin/xd-awesome-logo/
+[3]:  https://github.com/AdobeXD/xdpm
