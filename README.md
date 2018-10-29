@@ -1,13 +1,14 @@
-<p align="center"> 
+<p align="center">
   <img src="xdawesome.svg" width="500">
   <br />
-  Awesome XD Plugins, Templates, Samples, and more. 
+  Awesome XD Plugins, Templates, Samples, and more.
   <br /> <br />
 </p>
 
 ## Awesome Plugins
 
 ## Utility Libraries
+- [**xd-plugin-helper**][4] - Collection of helpers for development
 
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
@@ -37,3 +38,4 @@ To contribute, please follow these steps:
 [1]:	https://github.com/AdobeXD/typings
 [2]:	https://github.com/takidelfin/xd-awesome-logo/
 [3]:  https://github.com/AdobeXD/xdpm
+[4]:  https://github.com/svschannak/xd-plugin-helper
