@@ -5,7 +5,9 @@
   <br /> <br />
 </p>
 
-## Awesome Plugins
+## Awesome Open Source Plugins
+- [Rename It](https://github.com/rodi01/RenameIt-XD) by [Rodrigo Soares](https://github.com/rodi01) - Batch renames layers and artboards. [More information](https://renameit.design/)
+- [Data Populator](https://github.com/preciousforever/data-populator) by Precious - Design with real data! [More information](https://www.datapopulator.com/)
 
 ## Utility Libraries
 - [**Storage helper (xd-storage-helper)**][4] – A small helper library making key-value-based permanent storage for plugins easy
