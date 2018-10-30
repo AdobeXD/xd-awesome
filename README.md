@@ -8,6 +8,7 @@
 ## Awesome Plugins
 
 ## Utility Libraries
+- [**Storage helper (xd-storage-helper)**][4] – A small helper library making key-value-based permanent storage for plugins easy
 
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
@@ -37,3 +38,4 @@ To contribute, please follow these steps:
 [1]:	https://github.com/AdobeXD/typings
 [2]:	https://github.com/takidelfin/xd-awesome-logo/
 [3]:  https://github.com/AdobeXD/xdpm
+[4]:  https://github.com/pklaschka/xd-storage-helper
