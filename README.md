@@ -8,6 +8,7 @@
 ## Awesome Open Source Plugins
 - **[Rename It](https://github.com/rodi01/RenameIt-XD)** by [Rodrigo Soares](https://github.com/rodi01) - Batch renames layers and artboards. [More information](https://renameit.design/)
 - **[Data Populator](https://github.com/preciousforever/data-populator)** by Precious - Design with real data! [More information](https://www.datapopulator.com/)
+- **[Copy SVG Code](https://github.com/stursby/xd-copy-svg-code-plugin)** by [Charlie Hield](https://github.com/stursby) - Plugin to generate SVG code from selection.
 
 ## Utility Libraries
 - [**Storage helper (xd-storage-helper)**][4] – A small helper library making key-value-based permanent storage for plugins easy
