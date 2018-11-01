@@ -12,6 +12,7 @@
 ## Utility Libraries
 - [**Storage helper (xd-storage-helper)**][4] – A small helper library making key-value-based permanent storage for plugins easy
 - [**xd-plugin-helper**][5] - Collection of helpers for development
+- [**xd-json-wrapper**][6] - Wrapper for XD Nodes, Artboards and document to convert to json
 
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
@@ -43,3 +44,4 @@ To contribute, please follow these steps:
 [3]:  https://github.com/AdobeXD/xdpm
 [4]:  https://github.com/pklaschka/xd-storage-helper
 [5]:  https://github.com/svschannak/xd-plugin-helper
+[6]:  https://github.com/svschannak/xd-json-wrapper
