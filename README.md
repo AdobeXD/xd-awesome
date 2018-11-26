@@ -10,6 +10,7 @@
 - **[Data Populator](https://github.com/preciousforever/data-populator)** by Precious - Design with real data! [More information](https://www.datapopulator.com/)
 - **[Copy SVG Code](https://github.com/stursby/xd-copy-svg-code-plugin)** by [Charlie Hield](https://github.com/stursby) - Plugin to generate SVG code from selection.
 - **[Artboard Plus](https://github.com/rodi01/Artboard-Plus-XD)** by [Rodrigo Soares](https://github.com/rodi01) - Artboard tools to speed up your Adobe XD workflow.
+- **[Inker8](https://github.com/inker8/xd-plugin)** by [Zack Young](https://github.com/zaaack) - Export artboards to a spec file for developers to measure design, copy css/text and export icons.
 
 ## Utility Libraries
 - [**Storage helper (xd-storage-helper)**][4] – A small helper library making key-value-based permanent storage for plugins easy
