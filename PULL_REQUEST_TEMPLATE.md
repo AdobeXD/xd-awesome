@@ -1,23 +1,22 @@
-<!--- Provide a general summary of your changes in the Title above -->
+# Submit your project for inclusion in XD-Awesome
 
-## Description
+Hey! We're happy you want to submit your project to XD-Awesome. Please create a pull request and ensure that you fill out the following template:
 
-<!--- Describe your changes in detail -->
+## **Name of your project or content**
 
-## Related Issue
+**Description of your project:** A _short_ description of your project or content
 
-<!--- This project only accepts pull requests related to open issues -->
-<!--- If suggesting a new feature or change, please discuss it in an issue first -->
-<!--- Please link to the issue here: -->
+**Link to your project:** the link to your project or content
 
-## Motivation and Context
+**License:** the license of your project or content (must be open source)
 
-<!--- Why is this change required? What problem does it solve? -->
+**Category:** the category you want the project listed under
+
+## Why is it awesome?
+
+_Tell us a little more about your project and why it would be great for inclusion in XD-Awesome._
 
 ## Checklist:
-
-<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
-<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
 - [ ] I have signed the [Adobe Open Source CLA](http://opensource.adobe.com/cla.html).
 - [ ] I have read the **CONTRIBUTING** document.

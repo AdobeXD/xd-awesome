@@ -1,17 +1,16 @@
-# Submit your project for inclusion in XD-Awesome
+# Submit an issue
 
-Hey! We're happy you want to submit your project to XD-Awesome. Please ensure that you use the following template:
+Note that any underlying issues with the content shared in this repository can only be addressed by the original owner and should be reported directly. Please only create an issue here if the content shared in this repository needs to be re-evaluated by Adobe.
 
-## **Name of your project or content**
+## Topic
 
-**Description of your project:** A _short_ description of your project or content
+This is an issue regarding:
 
-**Link to your project:** the link to your project or content
+- [ ] The XD Awesome repository README.
+- [ ] The open source plugins shared within this repo.
+- [ ] The utility libraries shared within this repo.
+- [ ] The developer tools shared within this repo.
+- [ ] Other
 
-**License:** the license of your project or content (must be open source)
+## Description of the issue
 
-**Category:** the category you want the project listed under
-
-## Why is it awesome?
-
-_Tell us a little more about your project and why it would be great for inclusion in XD-Awesome._

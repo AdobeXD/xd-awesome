@@ -16,6 +16,8 @@ Start by filing an issue. The existing committers on this project work to reach
 consensus around project direction and issue solutions within issue threads
 (when appropriate).
 
+Please note that pull requests to the xd-awesome repository are welcome. Our reviewers will review the added content and decide whether the pull requests should be approved or rejected.
+
 ## Contributor License Agreement
 
 All third-party contributions to this project must be accompanied by a signed contributor
