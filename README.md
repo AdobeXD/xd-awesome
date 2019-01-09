@@ -13,9 +13,10 @@
 - **[Inker8](https://github.com/inker8/xd-plugin)** by [Zack Young](https://github.com/zaaack) - Export artboards to a spec file for developers to measure design, copy css/text and export icons.
 
 ## Utility Libraries
-- [**Storage helper (xd-storage-helper)**][4] – A small helper library making key-value-based permanent storage for plugins easy
+- [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
 - [**xd-plugin-helper**][5] - Collection of helpers for development
 - [**xd-json-wrapper**][6] - Wrapper for XD Nodes, Artboards and document to convert to json
+- [**xd-localization-helper**][7]
 
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
@@ -48,3 +49,4 @@ To contribute, please follow these steps:
 [4]:  https://github.com/pklaschka/xd-storage-helper
 [5]:  https://github.com/svschannak/xd-plugin-helper
 [6]:  https://github.com/svschannak/xd-json-wrapper
+[7]:  https://github.com/pklaschka/xd-localization-helper
