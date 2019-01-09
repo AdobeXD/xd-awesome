@@ -37,11 +37,9 @@
 
 ## Contributing
 
-To contribute, please follow these steps:
+* To list your project in this repo, create a PR modifying this file with a link and description to the project you wish to add
 
-* Create an issue so that we can discuss what you'd like to add to this repo
-* Upon approval, create a PR modifying this file with a link and description to the project you wish to add.
-
+* If there is a signficant issue with any of the listings, create an issue so that we can temporarily remove the listing until the issue is resolved
 
 [1]:	https://github.com/AdobeXD/typings
 [2]:	https://github.com/takidelfin/xd-awesome-logo/
