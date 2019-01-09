@@ -22,6 +22,7 @@
 - [**xdpm**][3] - XD plugin manager CLI (useful for watching folders and creating plugin packages)
 
 ## Templates
+- [**pklaschka xd-plugin-boilerplate**](https://github.com/pklaschka/xd-plugin-boilerplate) – A template including bundling via Webpack, linting with ESLint as well as the typescript definitions preconfigured for JavaScript autocompletion
 
 ## Samples
 
