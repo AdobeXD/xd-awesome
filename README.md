@@ -16,7 +16,7 @@
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
 - [**xd-plugin-helper**][5] - Collection of helpers for development
 - [**xd-json-wrapper**][6] - Wrapper for XD Nodes, Artboards and document to convert to json
-- [**xd-localization-helper**][7]
+- [**xd-localization-helper**][7] - A library making localization for plugins for Adobe XD CC easy
 
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
