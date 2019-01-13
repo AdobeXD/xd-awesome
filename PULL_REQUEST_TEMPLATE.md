@@ -2,19 +2,18 @@
 
 Hey! We're happy you want to submit your project to XD-Awesome. Please create a pull request and ensure that you fill out the following template:
 
-## **Name of your project or content**
+## **uiLogos**
 
-**Description of your project:** A _short_ description of your project or content
+**Description of your project:** Now you can insert 25+ professionally designed logos and 190+ country flags directly into Adobe XD.
 
-**Link to your project:** the link to your project or content
+**Link to your project:** [uilogos-xd](https://github.com/realvjy/uilogos-XD).
 
-**License:** the license of your project or content (must be open source)
+**License:** MIT
 
-**Category:** the category you want the project listed under
+**Category:** Awesome Open Source Plugins
 
 ## Why is it awesome?
-
-_Tell us a little more about your project and why it would be great for inclusion in XD-Awesome._
+Now you can insert 25+ professionally designed logos and 190+ country flags directly into Adobe XD.
 
 ## Checklist:
 
