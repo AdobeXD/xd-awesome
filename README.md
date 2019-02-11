@@ -7,6 +7,12 @@
 
 ## Awesome Open Source Plugins
 
+- **[Rename It](https://github.com/rodi01/RenameIt-XD)** by [Rodrigo Soares](https://github.com/rodi01) - Batch renames layers and artboards. [More information](https://renameit.design/)
+- **[Data Populator](https://github.com/preciousforever/data-populator)** by Precious - Design with real data! [More information](https://www.datapopulator.com/)
+- **[Copy SVG Code](https://github.com/stursby/xd-copy-svg-code-plugin)** by [Charlie Hield](https://github.com/stursby) - Plugin to generate SVG code from selection.
+- **[Artboard Plus](https://github.com/rodi01/Artboard-Plus-XD)** by [Rodrigo Soares](https://github.com/rodi01) - Artboard tools to speed up your Adobe XD workflow.
+- **[Inker8](https://github.com/inker8/xd-plugin)** by [Zack Young](https://github.com/zaaack) - Export artboards to a spec file for developers to measure design, copy css/text and export icons.
+- **[uiLogos](https://github.com/realvjy/uilogos-XD)** by [vijay verma](https://github.com/realvjy) - Insert professionally designed dummy logos of companies and 190+ country flags.
 - **[App Icon Generator](https://github.com/paolobiagini/xd-app-icon-generator)** by [Paolo Biagini](https://github.com/paolobiagini) - Export all app icon renditions according to iOS, Android, UWP and XD requirement.
 - **[Calendar](https://github.com/paolobiagini/xd-calendar)** by [Paolo Biagini](https://github.com/paolobiagini) - Build a real calendar month. It also supports different languages.
 - **[Change Case](https://github.com/paolobiagini/xd-change-case)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for changing text capitalization.
@@ -15,12 +21,6 @@
 - **[Pattern Maker](https://github.com/paolobiagini/xd-pattern-maker)** by [Paolo Biagini](https://github.com/paolobiagini) - Create a seamless tile that can be used both alone and as a Repeat Grid cell.
 - **[Polygons](https://github.com/paolobiagini/xd-polygons)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for creating simple polygons without leaving XD.
 - **[Selection](https://github.com/paolobiagini/xd-selection)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for selecting objects with the same properties. It supports local selections inside single Artboards, RepeatGrids and groups, as well as global selections across multiple Artboards.
-- **[Rename It](https://github.com/rodi01/RenameIt-XD)** by [Rodrigo Soares](https://github.com/rodi01) - Batch renames layers and artboards. [More information](https://renameit.design/)
-- **[Data Populator](https://github.com/preciousforever/data-populator)** by Precious - Design with real data! [More information](https://www.datapopulator.com/)
-- **[Copy SVG Code](https://github.com/stursby/xd-copy-svg-code-plugin)** by [Charlie Hield](https://github.com/stursby) - Plugin to generate SVG code from selection.
-- **[Artboard Plus](https://github.com/rodi01/Artboard-Plus-XD)** by [Rodrigo Soares](https://github.com/rodi01) - Artboard tools to speed up your Adobe XD workflow.
-- **[Inker8](https://github.com/inker8/xd-plugin)** by [Zack Young](https://github.com/zaaack) - Export artboards to a spec file for developers to measure design, copy css/text and export icons.
-- **[uiLogos](https://github.com/realvjy/uilogos-XD)** by [vijay verma](https://github.com/realvjy) - Insert professionally designed dummy logos of companies and 190+ country flags.
 
 ## Utility Libraries
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
