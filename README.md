@@ -21,6 +21,7 @@
 - **[Pattern Maker](https://github.com/paolobiagini/xd-pattern-maker)** by [Paolo Biagini](https://github.com/paolobiagini) - Create a seamless tile that can be used both alone and as a Repeat Grid cell.
 - **[Polygons](https://github.com/paolobiagini/xd-polygons)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for creating simple polygons without leaving XD.
 - **[Selection](https://github.com/paolobiagini/xd-selection)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for selecting objects with the same properties. It supports local selections inside single Artboards, RepeatGrids and groups, as well as global selections across multiple Artboards.
+- **[Tunda Image](https://github.com/satriaajiputra/tunda-image)** by [Satria Aji Putra](https://github.com/satriaajiputra) - Quick fill image to a shape from direct image url
 
 ## Utility Libraries
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
