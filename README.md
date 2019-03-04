@@ -17,6 +17,7 @@
 - **[Calendar](https://github.com/paolobiagini/xd-calendar)** by [Paolo Biagini](https://github.com/paolobiagini) - Build a real calendar month. It also supports different languages.
 - **[Change Case](https://github.com/paolobiagini/xd-change-case)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for changing text capitalization.
 - **[Convert Shape](https://github.com/paolobiagini/xd-convert-shape)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin that easily converts a shape into another, keeping the original appearance.
+- **[Export only one size](https://github.com/nikoladev/xd-export)** by [Nikola Pilipović](https://github.com/nikoladev) - Export at the scale you need and ONLY at the scale you need.
 - **[Frame Maker](https://github.com/paolobiagini/xd-frame-maker)** by [Paolo Biagini](https://github.com/paolobiagini) - Draw a rectangle or circle frame around selected objects. Useful for creating buttons, headers, grid cells, etc.
 - **[Pattern Maker](https://github.com/paolobiagini/xd-pattern-maker)** by [Paolo Biagini](https://github.com/paolobiagini) - Create a seamless tile that can be used both alone and as a Repeat Grid cell.
 - **[Polygons](https://github.com/paolobiagini/xd-polygons)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for creating simple polygons without leaving XD.
