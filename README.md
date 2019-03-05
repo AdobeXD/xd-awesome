@@ -22,6 +22,7 @@
 - **[Polygons](https://github.com/paolobiagini/xd-polygons)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for creating simple polygons without leaving XD.
 - **[Selection](https://github.com/paolobiagini/xd-selection)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin for selecting objects with the same properties. It supports local selections inside single Artboards, RepeatGrids and groups, as well as global selections across multiple Artboards.
 - **[Tunda Image](https://github.com/satriaajiputra/tunda-image)** by [Satria Aji Putra](https://github.com/satriaajiputra) - Quick fill image to a shape from direct image url
+- **[Mask Fit](https://github.com/paolobiagini/xd-mask-fit)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin that allows fitting images to their mask.
 
 ## Utility Libraries
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
