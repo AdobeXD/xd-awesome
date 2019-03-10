@@ -34,6 +34,7 @@
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
 - [**xdpm**][3] - XD plugin manager CLI (useful for watching folders and creating plugin packages)
+- [**xd-manifest-schema**][8] – A JSON schema to make editing and validating a plugin's `manifest.json` (adding capabilities for autocompletion, linting etc. in editors and IDEs)
 
 ## Templates
 - [**xd-plugin-boilerplate**](https://github.com/pklaschka/xd-plugin-boilerplate) – A template including bundling via Webpack, linting with ESLint as well as the typescript definitions preconfigured for JavaScript autocompletion
@@ -64,3 +65,4 @@
 [5]:  https://github.com/svschannak/xd-plugin-helper
 [6]:  https://github.com/svschannak/xd-json-wrapper
 [7]:  https://github.com/pklaschka/xd-localization-helper
+[8]:  https://github.com/pklaschka/xd-manifest-schema
