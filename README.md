@@ -39,7 +39,7 @@
 
 ## Templates
 - [**xd-plugin-boilerplate**](https://github.com/pklaschka/xd-plugin-boilerplate) – A template including bundling via Webpack, linting with ESLint as well as the typescript definitions preconfigured for JavaScript autocompletion
-- [**xd-plugin-boilerplate-react**](https://github.com/Ashwinvalento/xd-plugin-boilerplate-react) – A fork of [xd-plugin-boilerplate](https://github.com/pklaschka/xd-plugin-boilerplate) which has React Modules to create plugins with User Interface easily.
+- [**xd-plugin-boilerplate-react**](https://github.com/Ashwinvalento/xd-plugin-boilerplate-react) – A fork of [xd-plugin-boilerplate](https://github.com/pklaschka/xd-plugin-boilerplate) which includes React Library, Including Babel and necessary lint rules to create plugins with User Interface easily. 
 - [**generator-xd-plugin**](https://github.com/AdobeXD/generator-xd-plugin) – Yeoman generator for creating Adobe XD Plugin projects
 
 ## Samples
