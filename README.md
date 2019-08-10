@@ -46,6 +46,7 @@
 ## Tutorials
 
 ## Framework Support
+- [**react-xd**](https://github.com/macintoshhelper/react-xd) - Render React components to Adobe XD. Build design systems and libraries from your code. This bundles your React app or UI library into a plugin with [xdpm](3).
 
 ## Events
 
