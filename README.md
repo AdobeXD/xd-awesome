@@ -25,6 +25,7 @@
 - **[Export only one size](https://github.com/nikoladev/xd-export)** by [Nikola Pilipović](https://github.com/nikoladev) - Export at the scale you need and ONLY at the scale you need.
 - **[Mask Fit](https://github.com/paolobiagini/xd-mask-fit)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin that allows fitting images to their mask.
 - **[Maps generator](https://github.com/boopeshmahendran/AdobeXD-maps)** by [Boopesh Mahendran](https://github.com/boopeshmahendran) - A map generator plugin for Adobe XD using google maps API.
+- **[Ready Components](https://github.com/rohit-rmethwani/ready-components)** by [Rohit Methwani](https://github.com/rohit-rmethwani) - A plugin for generating generally used components for Mobile UI with command clicks.
 
 ## Utility Libraries
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
