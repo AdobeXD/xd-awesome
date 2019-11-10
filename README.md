@@ -26,6 +26,7 @@
 - **[Mask Fit](https://github.com/paolobiagini/xd-mask-fit)** by [Paolo Biagini](https://github.com/paolobiagini) - A command-like plugin that allows fitting images to their mask.
 - **[Maps generator](https://github.com/boopeshmahendran/AdobeXD-maps)** by [Boopesh Mahendran](https://github.com/boopeshmahendran) - A map generator plugin for Adobe XD using google maps API.
 - **[Ready Components](https://github.com/rohit-rmethwani/ready-components)** by [Rohit Methwani](https://github.com/rohit-rmethwani) - A plugin for generating generally used components for Mobile UI with command clicks.
+- **[Color Desginer](https://github.com/cyanpix/colordesigner-adobe-xd)** by [Wojciech Banaś](https://github.com/cyanpix) - Build color palette, generate shades and tints directly in Adobe XD.
 
 ## Utility Libraries
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
