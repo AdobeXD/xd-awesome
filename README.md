@@ -33,6 +33,7 @@
 - [**xd-plugin-helper**][5] - Collection of helpers for development
 - [**xd-json-wrapper**][6] - Wrapper for XD Nodes, Artboards and document to convert to json
 - [**xd-localization-helper**][7] - A library making localization for plugins for Adobe XD CC easy
+- [**xd-dialog-helper**](https://github.com/pklaschka/xd-dialog-helper) - A library making creating modals/dialogs for plugins incredibly easy, including a [WYSIWYG-editor](https://github.com/pklaschka/xd-dialog-helper-editor). ([Project homepage](https://xd-dialog-helper.pabloklaschka.de))
 
 ## Developer Tools
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
