@@ -19,6 +19,7 @@
 - **[Ready Components](https://github.com/rohit-rmethwani/ready-components)** by [Rohit Methwani](https://github.com/rohit-rmethwani) - A plugin for generating generally used components for Mobile UI with command clicks.
 - **[Color Desginer](https://github.com/cyanpix/colordesigner-adobe-xd)** by [Wojciech Banaś](https://github.com/cyanpix) - Build a color palette, generate shades and tints directly in Adobe XD.
 - **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin)** by [Pablo Klaschka](https://github.com/pklaschka)  - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
+- **[Favicon Export](https://github.com/ashryanbeats/favicon-export-for-xd)** by [Ash Ryan Arnwine](https://github.com/ashryanbeats) - Export icons for your website.
 
 ## Utility Libraries
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
