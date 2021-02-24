@@ -21,6 +21,7 @@
 - **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin)** by [Pablo Klaschka](https://github.com/pklaschka)  - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
 - **[Favicon Export](https://github.com/ashryanbeats/favicon-export-for-xd)** by [Ash Ryan Arnwine](https://github.com/ashryanbeats) - Export icons for your website.
 - **[XD to Flutter](https://github.com/AdobeXD/xd-to-flutter-plugin)** by Adobe - Generate assets from XD for use in an existing Flutter project.
+- **[Document Chat](https://github.com/pklaschka/chat-xd-plugin)** by [Pablo Klaschka](https://github.com/pklaschka)  - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
 
 ## Utility Libraries
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
