@@ -18,12 +18,14 @@
 - **[Maps generator](https://github.com/boopeshmahendran/AdobeXD-maps)** by [Boopesh Mahendran](https://github.com/boopeshmahendran) - A map generator plugin for Adobe XD using google maps API.
 - **[Ready Components](https://github.com/rohit-rmethwani/ready-components)** by [Rohit Methwani](https://github.com/rohit-rmethwani) - A plugin for generating generally used components for Mobile UI with command clicks.
 - **[Color Desginer](https://github.com/cyanpix/colordesigner-adobe-xd)** by [Wojciech Banaś](https://github.com/cyanpix) - Build a color palette, generate shades and tints directly in Adobe XD.
-- **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin)** by [Pablo Klaschka](https://github.com/pklaschka)  - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
+- **[Lorem Ipsum](https://github.com/pklaschka/lorem-ipsum-plugin)** by [Pablo Klaschka](https://github.com/pklaschka) - A small plugin to insert placeholder text that fits your needs: As simple as you want it to be, yet as advanced as you need it to be… [More information](https://xdplugins.pabloklaschka.de/plugins/lorem-ipsum)
 - **[Favicon Export](https://github.com/ashryanbeats/favicon-export-for-xd)** by [Ash Ryan Arnwine](https://github.com/ashryanbeats) - Export icons for your website.
 - **[XD to Flutter](https://github.com/AdobeXD/xd-to-flutter-plugin)** by Adobe - Generate assets from XD for use in an existing Flutter project.
-- **[Document Chat](https://github.com/pklaschka/chat-xd-plugin)** by [Pablo Klaschka](https://github.com/pklaschka)  - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
+- **[Document Chat](https://github.com/pklaschka/chat-xd-plugin)** by [Pablo Klaschka](https://github.com/pklaschka) - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
+- **[Adobe Xd E-tools](https://chrome.google.com/webstore/detail/adobe-xd-e-tools/dpbkhbpcahphenpdohcacldcfjejonoc/)** by [Rafael Prado](https://github.com/rpradosilva/adobexd-etools) - An extension to enable Adobe Xd prototype email tools. In a workflow where we used Adobe Xd as the primary way to validate prototypes, a gap was identified when it came to copying or remove guest emails.
 
 ## Utility Libraries
+
 - [**xd-storage-helper**][4] – A small helper library making key-value-based permanent storage for plugins easy
 - [**xd-plugin-helper**][5] - Collection of helpers for development
 - [**xd-json-wrapper**][6] - Wrapper for XD Nodes, Artboards and document to convert to json
@@ -31,13 +33,15 @@
 - [**xd-dialog-helper**](https://github.com/pklaschka/xd-dialog-helper) - A library making creating modals/dialogs for plugins incredibly easy, including a [WYSIWYG-editor](https://github.com/pklaschka/xd-dialog-helper-editor). ([Project homepage](https://xd-dialog-helper.pabloklaschka.de))
 
 ## Developer Tools
+
 - [**Typescript definitions**][1] – Adding autocompletion and type definitions
 - [**xdpm**][3] - XD plugin manager CLI (useful for watching folders and creating plugin packages)
 - [**xd-manifest-schema**][8] – A JSON schema to make editing and validating a plugin's `manifest.json` (adding capabilities for autocompletion, linting etc. in editors and IDEs)
 
 ## Templates
+
 - [**xd-plugin-boilerplate**](https://github.com/pklaschka/xd-plugin-boilerplate) – A template including bundling via Webpack, linting with ESLint as well as the typescript definitions preconfigured for JavaScript autocompletion
-- [**xd-plugin-boilerplate-react**](https://github.com/Ashwinvalento/xd-plugin-boilerplate-react) – A fork of [xd-plugin-boilerplate](https://github.com/pklaschka/xd-plugin-boilerplate) which includes React Library, Including Babel and necessary lint rules to create plugins with User Interface easily. 
+- [**xd-plugin-boilerplate-react**](https://github.com/Ashwinvalento/xd-plugin-boilerplate-react) – A fork of [xd-plugin-boilerplate](https://github.com/pklaschka/xd-plugin-boilerplate) which includes React Library, Including Babel and necessary lint rules to create plugins with User Interface easily.
 - [**generator-xd-plugin**](https://github.com/AdobeXD/generator-xd-plugin) – Yeoman generator for creating Adobe XD Plugin projects
 
 ## Samples
@@ -45,24 +49,26 @@
 ## Tutorials
 
 ## Framework Support
+
 - [**react-xd**](https://github.com/macintoshhelper/react-xd) - Render React components to Adobe XD. Build design systems and libraries from your code. This bundles your React app or UI library into a plugin with [xdpm][3].
 
 ## Events
 
 ## Assets
+
 - [**XD Awesome logo**][2] – This repo's logo is itself an open source project by our community, created in XD
 
 ## Contributing
 
-* To list your project in this repo, create a PR modifying this file with a link and description to the project you wish to add
+- To list your project in this repo, create a PR modifying this file with a link and description to the project you wish to add
 
-* If there is a signficant issue with any of the listings, create an issue so that we can temporarily remove the listing until the issue is resolved
+- If there is a signficant issue with any of the listings, create an issue so that we can temporarily remove the listing until the issue is resolved
 
-[1]:	https://github.com/AdobeXD/typings
-[2]:	https://github.com/takidelfin/xd-awesome-logo/
-[3]:  https://github.com/AdobeXD/xdpm
-[4]:  https://github.com/pklaschka/xd-storage-helper
-[5]:  https://github.com/svschannak/xd-plugin-helper
-[6]:  https://github.com/svschannak/xd-json-wrapper
-[7]:  https://github.com/pklaschka/xd-localization-helper
-[8]:  https://github.com/pklaschka/xd-manifest-schema
+[1]: https://github.com/AdobeXD/typings
+[2]: https://github.com/takidelfin/xd-awesome-logo/
+[3]: https://github.com/AdobeXD/xdpm
+[4]: https://github.com/pklaschka/xd-storage-helper
+[5]: https://github.com/svschannak/xd-plugin-helper
+[6]: https://github.com/svschannak/xd-json-wrapper
+[7]: https://github.com/pklaschka/xd-localization-helper
+[8]: https://github.com/pklaschka/xd-manifest-schema
