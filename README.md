@@ -22,7 +22,6 @@
 - **[Favicon Export](https://github.com/ashryanbeats/favicon-export-for-xd)** by [Ash Ryan Arnwine](https://github.com/ashryanbeats) - Export icons for your website.
 - **[XD to Flutter](https://github.com/AdobeXD/xd-to-flutter-plugin)** by Adobe - Generate assets from XD for use in an existing Flutter project.
 - **[Document Chat](https://github.com/pklaschka/chat-xd-plugin)** by [Pablo Klaschka](https://github.com/pklaschka) - Chat plugin that uses the root node's `pluginData` to store messages, removing the need for an external server. Code features TypeScript, React, Cypress tests, and more :wink: [More information](https://xdplugins.pabloklaschka.de/plugins/document-chat)
-- **[Adobe Xd E-tools](https://chrome.google.com/webstore/detail/adobe-xd-e-tools/dpbkhbpcahphenpdohcacldcfjejonoc/)** by [Rafael Prado](https://github.com/rpradosilva/adobexd-etools) - An extension to enable Adobe Xd prototype email tools. In a workflow where we used Adobe Xd as the primary way to validate prototypes, a gap was identified when it came to copying or remove guest emails.
 
 ## Utility Libraries
 
@@ -43,6 +42,10 @@
 - [**xd-plugin-boilerplate**](https://github.com/pklaschka/xd-plugin-boilerplate) – A template including bundling via Webpack, linting with ESLint as well as the typescript definitions preconfigured for JavaScript autocompletion
 - [**xd-plugin-boilerplate-react**](https://github.com/Ashwinvalento/xd-plugin-boilerplate-react) – A fork of [xd-plugin-boilerplate](https://github.com/pklaschka/xd-plugin-boilerplate) which includes React Library, Including Babel and necessary lint rules to create plugins with User Interface easily.
 - [**generator-xd-plugin**](https://github.com/AdobeXD/generator-xd-plugin) – Yeoman generator for creating Adobe XD Plugin projects
+
+## Miscellaneous/Others
+
+- **[Adobe Xd E-tools](https://chrome.google.com/webstore/detail/adobe-xd-e-tools/dpbkhbpcahphenpdohcacldcfjejonoc/)** by [Rafael Prado](https://github.com/rpradosilva/adobexd-etools) - An extension to enable Adobe Xd prototype email tools. In a workflow where we used Adobe Xd as the primary way to validate prototypes, a gap was identified when it came to copying or remove guest emails.
 
 ## Samples
 
